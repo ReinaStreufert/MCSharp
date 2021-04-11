@@ -1,0 +1,14 @@
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\MCSharp\MCSharp\obj\Debug\MCSharp.Resources.resources
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\MCSharp\MCSharp\obj\Debug\MCSharp.csproj.GenerateResource.Cache
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\MCSharp\MCSharp\bin\Debug\MCSharp.dll
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\MCSharp\MCSharp\bin\Debug\MCSharp.pdb
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\MCSharp\MCSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\MCSharp\MCSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\MCSharp\MCSharp\obj\Debug\MCSharp.dll
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\MCSharp\MCSharp\obj\Debug\MCSharp.pdb
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\MCSharp\MCSharp\bin\Debug\crypto.dll
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\MCSharp\MCSharp\bin\Debug\DotNetZip.dll
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\MCSharp\MCSharp\bin\Debug\crypto.xml
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\MCSharp\MCSharp\bin\Debug\DotNetZip.pdb
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\MCSharp\MCSharp\bin\Debug\DotNetZip.xml
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\MCSharp\MCSharp\obj\Debug\MCSharp.csprojResolveAssemblyReference.cache
