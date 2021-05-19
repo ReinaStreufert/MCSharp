@@ -8,6 +8,7 @@ using MCSharp.Data;
 using MCSharp.Misc;
 using MCSharp.ServerComponents.Packets.ClientBound;
 using MCSharp.Misc.Enums;
+using MCSharp.GameplayComponents;
 
 namespace MCSharp.ServerComponents.Packets.ServerBound
 {

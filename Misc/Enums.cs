@@ -37,4 +37,37 @@ namespace MCSharp.Misc.Enums
         ServerListPing = 0, // The client has connected in order to perform a Server List Ping (SLP), it will be disconnected after the SLP has completed.
         LoginAndPlay = 1 // The client has connected in order to login and play.
     }
+    public static class NamespaceRegistries
+    {
+        public static string SoundEvent = "minecraft:sound_event";
+        public static string Fluid = "minecraft:fluid";
+        public static string MobEffect = "minecraft:mob_effect";
+        public static string Block = "minecrat:block";
+        public static string Enchantment = "minecraft:enchantment";
+        public static string EntityType = "minecraft:entity_type";
+        public static string Item = "minecraft:item";
+        public static string Potion = "minecraft:potion";
+        public static string ParticleType = "minecraft:particle_type";
+        public static string BlockEntityType = "minecraft:block_entity_type";
+        public static string Motive = "minecraft:motive";
+        public static string CustomStat = "minecraft:custom_stat";
+        public static string ChunkStatus = "minecraft:chunk_status";
+        public static string RuleTest = "minecraft:rule_test";
+        public static string PosRuleTest = "minecraft:pos_rule_test";
+        public static string Menu = "minecraft:menu";
+        public static string RecipeType = "minecraft:recipe_type";
+        public static string RecipeSerializer = "minecraft:recipe_serializer";
+        public static string Attribute = "minecraft:attribute";
+        public static string StatType = "minecraft:stat_type";
+        public static string VillagerType = "minecraft:villager_type";
+        public static string VillagerPofession = "minecraft:villager_profession";
+        public static string PointOfInterestType = "minecraft:point_of_interest_type";
+        public static string MemoryModuleType = "minecraft:memory_module_type";
+        public static string SensorType = "minecraft:sensor_type";
+        public static string Schedule = "minecraft:schedule";
+        public static string Activity = "minecraft:activity";
+        public static string LootPoolEntryType = "minecraft:loot_pool_entry_type";
+        public static string LootFunctionType = "minecraft:loot_function_type";
+        public static string LootConditionType = "minecraft:loot_condition_type";
+    }
 }

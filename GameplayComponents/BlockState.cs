@@ -10,10 +10,10 @@ namespace MCSharp.GameplayComponents
     public class BlockState
     {
         public string NamespacedID { get; set; }
-        public int GetNumericStateID(MinecraftVersion Version)
+        /*public int GetNumericStateID(MCSharpServer Server, MinecraftVersion Version)
         {
 
-        }
+        }*/
         private Dictionary<string, string> properties = new Dictionary<string, string>();
         public string this[string property]
         {

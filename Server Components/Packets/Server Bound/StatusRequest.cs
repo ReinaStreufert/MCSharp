@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MCSharp.Data;
 using MCSharp.ServerComponents.Packets.ClientBound;
+using MCSharp.GameplayComponents;
 
 namespace MCSharp.ServerComponents.Packets.ServerBound
 {
